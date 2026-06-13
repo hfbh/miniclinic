@@ -1,4 +1,4 @@
-# MiniClinic 迷你診所系統
+# MiniClinic 社區診所系統
 一個以 Spring Boot 實作的輕量診所管理系統，支援醫師登入、病患管理、掛號與看診流程。
 ## 線上 Demo
 > https://miniclinic-zbdv.onrender.com/
