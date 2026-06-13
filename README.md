@@ -1,7 +1,7 @@
 # MiniClinic 迷你診所系統
 一個以 Spring Boot 實作的輕量診所管理系統，支援醫師登入、病患管理、掛號與看診流程。
 ## 線上 Demo
-> https://miniclinic-你的帳號.onrender.com
+> https://miniclinic-zbdv.onrender.com/
 ## 技術棧
 - **後端**：Spring Boot 4.x、Spring Data JPA、Thymeleaf
 - **本機資料庫**：SQLite
